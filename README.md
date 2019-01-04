@@ -61,6 +61,8 @@ npm install hexo-deployer-git --save
 `hexo-example/_config.yml`파일에서 다음과 같이 추가 설정
 
 ```
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 ...
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
