@@ -8,8 +8,6 @@ hexo를 이용하여 blog theme 적용하기.
 
 가장 큰 이유는 언어가 javascript라는 점, 다양한 테마들이 있다는 점으로 선택하게 되었다.
 
-내부적으로 [다양한 테마](https://hexo.io/themes/)들 중 [hexo-theme-chan](https://github.com/denjones/hexo-theme-chan)을 선택했고, [블로그 - http://wagunblog.com](http://wagunblog.com/wp/) 내용들을 한 번 옮겨보려고 한다.
-
 ## Hexo 시작하기
 
 ### hexo-cli를 설치
